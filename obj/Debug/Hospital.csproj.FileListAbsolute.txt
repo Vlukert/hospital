@@ -1,0 +1,19 @@
+C:\Users\unwwe\source\repos\Hospital\bin\Debug\BD Hospital.mdb
+C:\Users\unwwe\source\repos\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\unwwe\source\repos\Hospital\bin\Debug\Hospital.exe
+C:\Users\unwwe\source\repos\Hospital\bin\Debug\Hospital.pdb
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.Form1.resources
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.Form2.resources
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.Form3.resources
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.Form4.resources
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.Form5.resources
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.Form6.resources
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.Form7.resources
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.Form8.resources
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.Form9.resources
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.exe
+C:\Users\unwwe\source\repos\Hospital\obj\Debug\Hospital.pdb
